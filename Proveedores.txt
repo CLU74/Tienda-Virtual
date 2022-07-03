@@ -1,0 +1,2 @@
+Enlistar los proveedores con alto porcentaje de compra en mercancias. 
+Clasificar la lista de los mismos.
