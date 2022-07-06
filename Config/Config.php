@@ -1,5 +1,7 @@
 <?php 
 	
+	//comentario en archivo configuracion
+
 	//define("localhost/tienda_virtual/login", "http://localhost/tienda_virtual/");
 	const BASE_URL = "http://localhost/tienda_virtual/";
 
